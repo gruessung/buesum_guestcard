@@ -1,16 +1,7 @@
-# guestcard
+#Büsum Gästekarte
+Disclaimer: Diese App steht in keinem Zusammenhang mit der Stadt Büsum.
 
-A sample app for guestcards.
+Mithilfe dieser App kann die Gästekarte von Büsum lokal auf dem Smartphone geladen werden. Die App zeigt anschließend alle notwendigen Daten an, auch offline.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Dev
+Die App wurde mit Flutter 3 entwickelt und kann somit für alle gängigen System kompiliert werden. Getestet mit Android.
